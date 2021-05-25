@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angular-client-panel-1a573": {
+      "hosting": {
+        "clientpanel": [
+          "angular-client-panel-1a573"
+        ]
+      }
+    }
+  }
+}
